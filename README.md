@@ -22,8 +22,7 @@ To use the package, you need to first initialize it and provide the number and f
 use OwnDeveloper\NumberMask;
 
 require "./vendor/autoload.php";
-$number = '9876543210';
-$numberMask = new NumberMask($number, '###-####-###');
+$numberMask = new NumberMask();
 ```
 
 ### Example Usage
