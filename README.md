@@ -11,7 +11,7 @@ Number-Mask is a lightweight PHP library that provides functionality for masking
 You can install this package via Composer:
 
 ```bash
-composer require vijaydass/number-mask
+composer require owndeveloper/number-massking
 
 ## Usage
 
